@@ -11,7 +11,7 @@ A continuacion se presentaran dos ejemplos sencillos de como podemos crear una e
 
 ## EJEMPLO 1
 
-![Extension Ejemplo 1](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Extension Ejemplo 1](/imagen/ejemplo1.png)
 
 En este ejemplo vamos a crear una extension de diga "Hello Extensions".
 
@@ -51,7 +51,7 @@ El archivo hello.html tendra una estructura basica de html con el siguiente codi
 ```
 ## EJEMPLO 2
 
-![Extension Ejemplo 2](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![Extension Ejemplo 2](imagen/ejemplo2.png)
 
 En este ejemplo vamos a crear una extension de diga que haga una busqueda cada vez que abramos el buscador de google
 
