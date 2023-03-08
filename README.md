@@ -138,3 +138,9 @@ Ejecuta el script el cual escribe de manera automatica en el buscador "stack ove
 
 [Programador novato](https://www.youtube.com/watch?v=HHrX5Mi0JqU).
 
+[matiassingers/awesome-readme](https://github.com/matiassingers/awesome-readme).
+
+## Herramientas
+
+[Readme.so](https://readme.so/es).
+
