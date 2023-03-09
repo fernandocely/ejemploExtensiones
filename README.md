@@ -51,7 +51,7 @@ El archivo hello.html tendra una estructura basica de html con el siguiente codi
 ```
 ## EJEMPLO 2
 
-![Extension Ejemplo 2](imagen/ejemplo2.png)
+![Extension Ejemplo 2]()
 
 En este ejemplo vamos a crear una extension de diga que haga una busqueda cada vez que abramos el buscador de google
 
